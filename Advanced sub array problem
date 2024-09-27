@@ -1,4 +1,4 @@
-goals=int(input())
+goles=int(input())
 size=int(input())
 l=list(map(int,input().split()))
 max=0
